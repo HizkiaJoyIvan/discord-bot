@@ -12,3 +12,5 @@ const config: Record<string, string> = {
     GUILD_ID,
     DISCORD_TOKEN
 }
+
+export default config
